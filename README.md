@@ -1,7 +1,8 @@
 # Fuxi-AI-Tank-
 A Vision-Based Autonomous Aiming System powered by Xiaomi MiMo V2.5 and Multi-Agent Collaboration. 
 # 🚀 基于 Xiaomi MiMo 的视觉自主对抗智能车系统 (Fuxi-V1)
-
+**"Live Demo Concept"**
+https://www.bilibili.com/video/BV1uhVN6eETK/
 **🏆 项目背景**  
 本项目基于 2025 年全国大学生电子设计竞赛 E 题（简易自行瞄准装置）进行深度升级。利用 **Xiaomi MiMo-V2.5** 的多模态（Vision）与强推理（Pro）能力，将传统的“固定循迹”小车进化为“全向视觉感知 + 自主博弈决策”的智能体。
 
