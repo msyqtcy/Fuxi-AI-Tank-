@@ -1,0 +1,4 @@
+[2026-05-26 14:00:00] INFO: Vision Agent: Target detected at (x=120, y=80). Confidence: 0.95.
+[2026-05-26 14:00:01] INFO: Reasoning Agent: Input state -> Output action: ROTATE_RIGHT +2.5deg.
+[2026-05-26 14:00:02] INFO: MSPM0 Serial: Send command [0xFF, 0x02, 0x0A] to舵机.
+[2026-05-26 14:00:03] INFO: Reward: Laser hit the target! Score +100.
